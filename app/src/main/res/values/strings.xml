@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Google Analytics exemple</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Remplacer le par le votre -->
+    <string name="id_google_analytics">UA-65162892-1</string>
+
+</resources>
